@@ -1,0 +1,21 @@
+
+Fuel type: A-95
+Quantity sold: 2 liters
+Total sales: $100
+
+Fuel type: A-95
+Quantity sold: 234 liters
+Total sales: $10530
+
+Fuel type: A-95
+Quantity sold: 54.3333 liters
+Total sales: $2445
+
+Fuel type: A-92
+Quantity sold: 213 liters
+Total sales: $8946
+
+Fuel type: Diesel
+Quantity sold: 1 liters
+Total sales: $40
+

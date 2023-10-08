@@ -1,0 +1,20 @@
+Coffee type: Americano
+Quantity sold: 233 cups
+Total sales: $5825
+
+Coffee type: Americano
+Quantity sold: 10 cups
+Total sales: $250
+
+Coffee type: Americano
+Quantity sold: 1 cups
+Total sales: $25
+
+Coffee type: Cappuccino
+Quantity sold: 2 cups
+Total sales: $58
+
+Coffee type: Americano
+Quantity sold: 22 cups
+Total sales: $550
+

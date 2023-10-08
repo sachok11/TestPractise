@@ -1,0 +1,7 @@
+﻿  kursowa2.cpp
+C:\Users\UserHome\source\repos\kursowa2\kursowa2\kursowa2.cpp(168,29): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\UserHome\source\repos\kursowa2\kursowa2\kursowa2.cpp(181,22): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\UserHome\source\repos\kursowa2\kursowa2\kursowa2.cpp(195,47): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\UserHome\source\repos\kursowa2\kursowa2\kursowa2.cpp(243,22): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\UserHome\source\repos\kursowa2\kursowa2\kursowa2.cpp(323,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  kursowa2.vcxproj -> C:\Users\UserHome\source\repos\kursowa2\x64\Debug\kursowa2.exe
